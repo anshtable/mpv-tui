@@ -37,6 +37,8 @@
 git clone https://github.com/anshtable/mpv-tui.git
 cd mpv-tui
 pip install -r requirements.txt / pip install --upgrade -r requirements.txt
+chmod +x mpv-tui.py
+chmod +x discord-mpv.py
 ```
 
 ## Basic Usage (Without Discord RPC)
