@@ -29,10 +29,9 @@
 - yt-dlp (`pip install yt-dlp`)
 
 ```bash
-git clone https://github.com/yourusernamegit clone https://github.com/yourusername/spotitui.git
-cd spotitui/spotitui.git
-cd spotitui
-pip install -r requirements.txt
+git clone https://github.com/anshtable/mpv-tui.git
+cd mpv-tui
+pip install -r requirements.txt / pip install --upgrade -r requirements.txt
 ```
 
 ## Basic Usage (Without Discord RPC)
