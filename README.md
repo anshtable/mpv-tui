@@ -10,7 +10,7 @@
 # 
 
 
-![Mpv-Discord-RPC](Mpv-discord-rpc.png)
+![Mpv-Discord-RPC](Mpv-Discord-RPC.png)
 
 ## History Feature
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt / pip install --upgrade -r requirements.txt
 
 # Discord Rich Presence Setup
 
-![Mpv-Discord-RPC](Mpv-discord-rpc.png)
+![Mpv-Discord-RPC](Mpv-Discord-RPC.png)
 
 
 Requirements:
