@@ -3,7 +3,7 @@
 
 # 
 
-![Demo Screenshot](search.pmg)
+![Demo Screenshot](search.png)
 ![search](yt-dlp-list.png)
 
 
