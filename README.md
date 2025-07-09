@@ -120,7 +120,7 @@ self.rpc.update(
 ./mpv-tui.py
 ```
 
-## Enjoy your terminal music experience! 🎵
+## Enjoy your terminal music experience
 
 
 #### made with ai btw
