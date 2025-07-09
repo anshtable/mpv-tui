@@ -62,6 +62,8 @@ pip install -r requirements.txt / pip install --upgrade -r requirements.txt
 # Discord Rich Presence Setup
 
 ![Discord-RPC](discord-rpc.png)
+
+
 Requirements:
 
    Discord desktop app running
