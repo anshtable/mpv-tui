@@ -121,3 +121,6 @@ self.rpc.update(
 ```
 
 ## Enjoy your terminal music experience! 🎵
+
+
+#### made with ai btw
