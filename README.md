@@ -1,5 +1,5 @@
 # Spoti/MpvTUI - Terminal YouTube Music Player
- A feature-rich terminal interface for playing YouTube music with MPV, featuring Discord Rich Presence integration, persistent favorites, and intuitive controls.
+ A feature-rich terminal interface for Streaming YouTube music with MPV, featuring Discord Rich Presence integration, persistent favorites, and intuitive controls.
 
 # 
 
