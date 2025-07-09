@@ -5,7 +5,7 @@
 
 ![Demo Screenshot](search.png)
 ![search](yt-dlp-list.png)
-
+![Discord-RPC](discord-rpc.png)
 
 ## History Feature
 
@@ -60,6 +60,8 @@ pip install -r requirements.txt / pip install --upgrade -r requirements.txt
     q: Quit
 
 # Discord Rich Presence Setup
+
+![Discord-RPC](discord-rpc.png)
 Requirements:
 
    Discord desktop app running
