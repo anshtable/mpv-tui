@@ -125,7 +125,7 @@ self.rpc.update(
 
 ## Running with Discord Integration
 
-```python
+```bash
 # Run normally (will auto-launch discordmpv.py when played a song)
 ./mpv-tui.py
 ```
